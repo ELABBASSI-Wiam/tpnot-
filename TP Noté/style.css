@@ -1,0 +1,23 @@
+fieldset{
+    width: 50%;
+
+}
+h1{
+    background-color: gray;
+    color: wheat;
+    text-align: center;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+input{
+    width: 70%;
+}
+#btn{
+    background-color: chocolate;
+    color: white;
+}
